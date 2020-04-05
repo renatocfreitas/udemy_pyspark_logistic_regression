@@ -1,28 +1,29 @@
 
-# udemy_pyspark_linear_regression
+# udemy_pyspark_logistic_regression
 Udemy Spark and Python for Big Data with PySpark Course - Instructor Jose Portilla
 
 ### Install
 
 This project requires:
 
-- [Python 3](https://www.python.org/download/)
-- [Pandas](http://pandas.pydata.org/)
-- [Jupyter Notebook](https://jupyter.org/)
+- [Python 3](www.python.org/download/)
+- [Spark](spark.apache.org/downloads.html)
+- [Jupyter Notebook](jupyter.org/)
 
 ### Code
 
 Jupyter source code:
 
-- Lesson_Data_Transformation.ipynb
-- Linear_Regression_Example.ipynb
-- Linear_Regression_Code_Along.ipynb
+- Logistic_Regression_Aula.ipynb
+- Logistic_Regression_Consulting_Project.ipynb
+- Logistic_Regression_Example.ipynb
 
 Data sources:
 
-- fake_customers.csv
-- sample_linear_regression_data.txt
-- Ecommerce_Customers.csv
+- customer_churn.csv
+- new_customers.csv
+- sample_libsvm_data.txt
+- titanic.csv
 
 ### Running projects
 
